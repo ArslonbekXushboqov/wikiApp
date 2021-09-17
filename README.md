@@ -4,5 +4,5 @@
 
 ## O'rnatish
    
-   ```pip install wikipedia```\n\n
-   ```python app.py```
+```pip install wikipedia```
+```python app.py```
